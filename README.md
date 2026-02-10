@@ -1,2 +1,10 @@
 # PDI
-Pesquisa sobre Python, SQL, JS e PHP 
+Pesquisa sobre Python, SQL, JS e PHP:
+
+# SQL
+
+# JavaScript
+
+# PHP
+
+# Python
